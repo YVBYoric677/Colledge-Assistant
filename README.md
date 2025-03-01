@@ -1,6 +1,6 @@
 # College-GSC: Ваш Путь к Успеху в Образовании
 
-![Иллюстрация к проекту](https://example.com/image.png)
+![Вперед!]([https://example.com/image.png](https://github.com/YVBYoric677/Colledge-Assistant/blob/main/558568761914.jpg)
 
 ## О проекте
 
